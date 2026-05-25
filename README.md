@@ -76,6 +76,10 @@ Links **Coach** and **Session** (M:N).
 | Member — Session          | M : N       | Via **Registration**; max 20 members per session |
 | Coach — Session           | M : N       | Via **Assignment**; max 2 coaches per session    |
 
+## Visual diagram
+
+Open **`gym-chain-er-model.drawio`** in [diagrams.net](https://app.diagrams.net) or the Draw.io extension in VS Code/Cursor.
+
 ## ER Diagram (Crow's Foot / Mermaid)
 
 ```mermaid
